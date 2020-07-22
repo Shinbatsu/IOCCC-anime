@@ -10,7 +10,6 @@ key.c
 *.alt2
 *.alt2.c
 *.alt.c
-*.c
 *.orig
 output
 output.2
